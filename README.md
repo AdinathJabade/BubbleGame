@@ -22,7 +22,7 @@ A fun and interactive Bubble Game built using HTML, CSS, and JavaScript. The goa
 
 📦 Installation:
 
-1. Clone the repository:git clone https://github.com/yourusername/bubble-game.git
+1. Clone the repository:git clone https://github.com/AdinathJabade/bubble-game.git
 2. Navigate to the project folder:cd bubble-game
 3. Open the index.html file:Open the index.html file in any browser to start playing the game.
 
@@ -44,8 +44,7 @@ A fun and interactive Bubble Game built using HTML, CSS, and JavaScript. The goa
     Push to the branch (git push origin feature-name).
     Open a pull request.
 
-
-📱 Demo:
+📱 Demo:bubble-game-win.vercel.app
 
 For any issues or suggestions, feel free to reach out to me at:
 Email: adijabade5@gmail.com
