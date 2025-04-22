@@ -44,7 +44,7 @@ A fun and interactive Bubble Game built using HTML, CSS, and JavaScript. The goa
     Push to the branch (git push origin feature-name).
     Open a pull request.
 
-📱 Demo:[bubble-game-win.vercel.app]
+📱 Demo:https://bubble-game-win.vercel.app/
 
 For any issues or suggestions, feel free to reach out to me at:
 Email: adijabade5@gmail.com
